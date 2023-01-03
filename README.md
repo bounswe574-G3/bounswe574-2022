@@ -7,10 +7,14 @@ This repository is created for the "SWE 574 - SOFTWARE DEVELOPMENT AS A TEAM" co
 * [Setup](#setup)
 
 ## Project Brief:
-WIP
+* This is a co-learning web application where users can create and participate in spaces which have co-learning oriented functionalities.
 	
 ## Technologies Used:
-* WIP
+* Python
+* Django web framework
+* HTML
+* CSS
+* Javascript
 	
 ## Setup:
-1. First, WIP
+* Follow the Docker guide in the report in order to run the project.
